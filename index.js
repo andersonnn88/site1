@@ -6,4 +6,4 @@ app.get("/", (req, res) => {
     res.send("<h1>Helo World</h1>")
 })
 
-app.listen(3000, () => console.log('Server rodando '));
+app.listen(3000, () => console.log('Server rodando '))
